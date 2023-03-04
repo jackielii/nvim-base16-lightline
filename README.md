@@ -5,7 +5,7 @@ Uses [nvim-base16](https://github.com/RRethy/nvim-base16) for [vim-lightline](ht
 ## Install
 
 ```
-Plug 'jackielii/vim-base16-lightline'
+Plug 'jackielii/nvim-base16-lightline'
 ```
 
 ## Config
